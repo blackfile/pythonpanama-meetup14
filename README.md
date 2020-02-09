@@ -1,4 +1,4 @@
-# Python Panama - Meeptup XIV
+# Python Panama - Meetup XIV
 
 Codigo Inicial presentado en el Meetup Python Panama XIV
 
